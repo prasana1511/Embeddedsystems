@@ -1,2 +1,3 @@
-# Embdeddsystems
-This repository includes Embedded C programs and gain hands on experience by performing embedded systems experiments.
+# EmbeddedSystemsExperiements
+This Repository includes Embedded C programs of basic Embedded System Experiements.
+Thorugh these Codes I got hands on experience on Embedded C and DSA concepts.
